@@ -22,15 +22,13 @@ body {
 }
 
 .Button1 {
-    display: table;
-    margin: 20px auto;
+    display: block;
     background-color: #a0c065;
     color: rgba(255, 255, 255, 0.518);
-    padding: 15px 32px;
-    text-align: center;
+    text-align: left;
     cursor: crosshair;
     border-radius: 15%;
-    border-color: #3b21d1;
+    border-color: #c02e5a;
     box-shadow: #333333;
 }
 
